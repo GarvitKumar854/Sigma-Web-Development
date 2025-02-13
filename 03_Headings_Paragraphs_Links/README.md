@@ -16,8 +16,8 @@ HTML provides **six** heading tags:
 ```
 ### 📌 Key Points
 
-- ✔ <h1> is the most important (used for main titles).
-- ✔ <h6> is the least important (used for minor headings).
+- ✔ `<h1>` is the most important (used for main titles).
+- ✔ `<h6>` is the least important (used for minor headings).
 - ✔ Helps with SEO (search engines use headings to rank pages).
 - ✔ Improves readability and content organization.
 
@@ -26,9 +26,9 @@ A **paragraph** in HTML is used to define blocks of text content. It helps in or
 
 ### 📌 Key Points
 
-- ✔ <p> defines a paragraph.
+- ✔ `<p>` defines a paragraph.
 - ✔ Browsers automatically add spacing before and after paragraphs.
-- ✔ Supports inline elements like <b>, <i>, and <a>.
+- ✔ Supports inline elements like `<b>, <i>, and <a>`.
 
 ### ✨ Paragraph Tag in HTML  
 To create a paragraph, use the `<p>` tag:  
