@@ -45,14 +45,14 @@ We appreciate your interest in contributing to **Sigma Web Development**! 🎉 B
 
 There are many ways to contribute to this project:  
 
-#### 1. Reporting Issues 📝  
+### 1. Reporting Issues 📝  
 If you encounter a bug or have suggestions for improvements, please [open an issue](https://github.com/yourusername/sigma-web-dev/issues). When reporting an issue, include:  
 - A clear description of the problem or suggestion.  
 - Steps to reproduce the issue (if applicable).  
 - Expected vs. actual behavior.  
 - Any relevant error messages or screenshots.  
 
-#### 2. Submitting Code 🖥️  
+### 2. Submitting Code 🖥️  
 If you want to contribute code, follow these steps:  
 
 1. **Fork the repository**  
@@ -89,7 +89,7 @@ If you want to contribute code, follow these steps:
    - Click **"Compare & pull request"** and describe your changes.  
    - Submit the PR for review.  
 
-#### 3. Code Style and Guidelines ⚙️  
+### 3. Code Style and Guidelines ⚙️  
 
 To maintain consistency, follow these best practices:  
 - **Use proper indentation** (2 or 4 spaces).  
@@ -99,16 +99,16 @@ To maintain consistency, follow these best practices:
   - Modular CSS using classes.  
   - Modern JavaScript ES6+ syntax.  
 
-#### 4. Testing 🧪  
+### 4. Testing 🧪  
 If you add new features or fix bugs, consider adding **tests** to ensure everything functions correctly.  
 
-#### 5. Documentation 📚  
+### 5. Documentation 📚  
 Ensure that you update relevant documentation when making changes or adding features.  
 
-#### Code of Conduct 🌟  
+### Code of Conduct 🌟  
 By participating in this project, you agree to follow the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/).  
 
-#### Thank You! 🙏  
+### Thank You! 🙏  
 We appreciate your contributions to **Sigma Web Development**! Every contribution makes this project better. If you have any questions, feel free to ask.  
 
 ---
