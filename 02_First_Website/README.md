@@ -26,3 +26,34 @@ Every HTML webpage follows a simple structure. Here’s a beginner-friendly temp
 - `<body>` → Holds the content visible on the webpage.
 - `<h1>` → Main heading.
 - `<p>` → A paragraph.
+
+## 🔹 HTML Attributes  
+
+HTML **attributes** provide extra information about elements and are written inside the opening tag.  
+
+### ✨ Common Attributes  
+
+✔ **`href`** (for links)  
+```html
+<a href="https://example.com">Visit</a>
+```
+
+- ✔ **`src`** (for images)
+```html
+<img src="image.jpg" alt="Image">
+```
+
+- ✔ **`style`** (inline CSS)
+```html
+<p style="color: blue;">Blue text</p>
+```
+
+- ✔ **`title`** (tooltip on hover)
+```html
+<p title="Tooltip">Hover over me</p>
+```
+
+- ✔ **`id & class`** (for styling & JS)
+```html
+<p id="unique" class="text-style">Styled Text</p>
+```
