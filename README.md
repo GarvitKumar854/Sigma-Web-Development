@@ -15,7 +15,7 @@ This repository will continuously evolve with new concepts, challenges, and real
 4. [Images, Lists & Tables](/04_Image_Lists_Tables/README.md)
 
 ### Others
-99. [License](#license)  
+99. [License](/LICENSE)  
 
 ---
 
