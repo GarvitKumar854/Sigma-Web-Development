@@ -1,4 +1,4 @@
-# Headings, Paragraphs & Links
+# Headings, Paragraphs & Links in HTML
 
 ## Headings
 A **heading** in HTML defines the titles or subtitles of a webpage. It helps structure content and improves readability.  
