@@ -35,8 +35,9 @@ To download the repository on your local system, run:
 git clone https://github.com/yourusername/sigma-web-dev.git
 cd sigma-web-dev
 ```
+---
 
-### 🤝 Contributing to Sigma Web Development  
+## 🤝 Contributing to Sigma Web Development  
 
 We appreciate your interest in contributing to **Sigma Web Development**! 🎉 Before you get started, please read through the following guidelines to ensure your contributions align with the project's goals.  
 
