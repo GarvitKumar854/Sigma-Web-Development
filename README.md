@@ -9,7 +9,7 @@ This repository will continuously evolve with new concepts, challenges, and real
 
 ## 📖 **Table of Contents**  
 ### Notes
-- 1.[Introduction](/01_Introduction/README.md)  
+- 1. [Introduction](/01_Introduction/README.md)  
 
 ### Others
 - 99.[License](#license)  
