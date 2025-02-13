@@ -36,3 +36,13 @@ To create a paragraph, use the `<p>` tag:
 <p>This is a paragraph in HTML.</p>
 <p>Paragraphs help structure content properly.</p>
 ```
+
+## 🔗 HTML Links
+
+HTML **links** (or **hyperlinks**) allow users to navigate between web pages and resources. They are created using the `<a>` (anchor) tag.
+
+### 🔹 Basic Syntax
+
+```html
+<a href="URL">Link Text</a>
+```
