@@ -17,7 +17,7 @@ Every HTML webpage follows a simple structure. Here’s a beginner-friendly temp
 
 </body>
 </html>
-
+```
 ## 📌 Explanation
 - `<!DOCTYPE html>` → Declares the document as HTML5.
 - `<html>` → The root of the HTML document.
