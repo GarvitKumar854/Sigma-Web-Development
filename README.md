@@ -32,8 +32,8 @@ This repository is structured to provide a progressive learning experience. You 
 ### ✅ **Clone the Repository**  
 To download the repository on your local system, run:  
 ```bash
-git clone https://github.com/yourusername/sigma-web-dev.git
-cd sigma-web-dev
+git clone https://github.com/yourusername/Sigma-Web-Development.git
+cd Sigma-Web-Development
 ```
 ---
 
@@ -46,7 +46,7 @@ We appreciate your interest in contributing to **Sigma Web Development**! 🎉 B
 There are many ways to contribute to this project:  
 
 ### 1. Reporting Issues 📝  
-If you encounter a bug or have suggestions for improvements, please [open an issue](https://github.com/yourusername/sigma-web-dev/issues). When reporting an issue, include:  
+If you encounter a bug or have suggestions for improvements, please [open an issue](https://github.com/yourusername/Sigma-Web-Development.git/issues). When reporting an issue, include:  
 - A clear description of the problem or suggestion.  
 - Steps to reproduce the issue (if applicable).  
 - Expected vs. actual behavior.  
@@ -60,8 +60,8 @@ If you want to contribute code, follow these steps:
 
 2. **Clone your fork**  
    ```bash
-   git clone https://github.com/your-username/sigma-web-dev.git
-   cd sigma-web-dev
+   git clone https://github.com/your-username/Sigma-Web-Development.git
+   cd Sigma-Web-Development
    ```  
 
 3. **Create a new branch**  
