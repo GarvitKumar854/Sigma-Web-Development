@@ -1,3 +1,3 @@
 # Your First Website
 
-## <img src= "https://www.flaticon.com/free-icon/html-5_174854" width = "20px"> Structure of a HTML Website
+## <img src= "https://cdn-icons-png.flaticon.com/128/174/174854.png" width = "20px"> Structure of a HTML Website
