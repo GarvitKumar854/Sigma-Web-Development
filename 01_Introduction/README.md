@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/GarvitKumar854/Sigma-Web-Development/main/Assets/globe.gif" width="100px">
+![Animated Icon](https://raw.githubusercontent.com/GarvitKumar854/Sigma-Web-Development/main/Assets/globe.gif)
 
 # Introduction  
 
