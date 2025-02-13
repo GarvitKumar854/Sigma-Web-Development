@@ -10,6 +10,7 @@ This repository will continuously evolve with new concepts, challenges, and real
 ## 📖 **Table of Contents**  
 ### Notes
 1. [Introduction](/01_Introduction/README.md)  
+2. [First Website](/02_First_Website/README.md)
 
 ### Others
 99. [License](#license)  
