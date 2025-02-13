@@ -33,7 +33,7 @@ HTML **attributes** provide extra information about elements and are written ins
 
 ### ✨ Common Attributes  
 
-✔ **`href`** (for links)  
+- ✔ **`href`** (for links)  
 ```html
 <a href="https://example.com">Visit</a>
 ```
