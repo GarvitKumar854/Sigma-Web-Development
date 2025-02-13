@@ -1,4 +1,4 @@
-# 🚀 **Sigma Web Development** 🌐  
+# <img src = "https://github.com/user-attachments/assets/a34952af-9606-420c-a387-38f1a6592ae7" width = "50px"> **Sigma Web Development** 🌐 
 
 ## **Introduction**  
 Welcome to **Sigma Web Development**! This repository is dedicated to my journey of mastering modern web development. It serves as a collection of learning resources, hands-on projects, and best practices to build high-quality web applications.  
