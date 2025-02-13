@@ -46,5 +46,67 @@ An HTML table is defined using the `<table>` tag, with rows (`<tr>`), header cel
 - `<td rowspan="number">` Content `</td>`: The rowspan attribute allows a cell to extend over multiple rows.
 - `<td colspan="number">` Content `</td>`: attribute enables a cell to extend across multiple columns. 
 
+## 📋 Lists in HTML
+
+HTML provides various list types to organize content effectively.
+
+### 🔹 Unordered Lists (`<ul>`)
+
+An unordered list displays items with bullet points.
+
+**Syntax:**
+```html
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+</ul>
+```
+
+### 🔹 Ordered Lists (`<ol>`)
+An ordered list displays items with numbers.
+
+**Syntax:**
+```html
+<ol>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+</ol>
+```
+
+### 🔹 Description Lists (<dl>)
+A description list pairs terms with their descriptions.
+
+**Syntax:**
+```html
+<dl>
+  <dt>Term 1</dt>
+  <dd>Description for Term 1</dd>
+  <dt>Term 2</dt>
+  <dd>Description for Term 2</dd>
+</dl>
+```
+
+### 🔹 Nesting Lists
+Lists can be nested to create sublists.
+
+**Example**
+```html
+<ul>
+  <li>Fruits
+    <ul>
+      <li>Apples</li>
+      <li>Bananas</li>
+    </ul>
+  </li>
+  <li>Vegetables
+    <ul>
+      <li>Carrots</li>
+      <li>Peas</li>
+    </ul>
+  </li>
+</ul>
+```
 
 
