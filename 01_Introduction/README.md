@@ -1,4 +1,4 @@
-# ![Animated Icon](https://raw.githubusercontent.com/GarvitKumar854/Sigma-Web-Development/main/assets/globe.gif) Introduction
+# ![Animated Icon](https://github.com/GarvitKumar854/Sigma-Web-Development/blob/main/Assets/globe.gif) Introduction
 Web development is the process of creating, building, and maintaining websites or web applications. It involves frontend development for user interfaces, backend development for data processing, and databases for storing information. The internet has become an essential part of daily life, and learning web development empowers individuals to create interactive, scalable, and dynamic websites. Whether for personal projects, businesses, or career growth, mastering web technologies opens up endless possibilities in the digital world.  
 
 ## 📌 What is a Website?  
