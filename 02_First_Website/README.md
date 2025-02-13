@@ -1,6 +1,6 @@
 # Your First Website
 
-## <img src= "https://cdn-icons-png.flaticon.com/128/174/174854.png" width = "30px"> Basic HTML Website Structure
+## <img src= "https://cdn-icons-png.flaticon.com/128/174/174854.png" width = "25px"> Basic HTML Website Structure
 Every HTML webpage follows a simple structure. Here’s a beginner-friendly template:  
 ```html
 <!DOCTYPE html>
