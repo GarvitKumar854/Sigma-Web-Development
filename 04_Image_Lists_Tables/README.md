@@ -75,7 +75,7 @@ An ordered list displays items with numbers.
 </ol>
 ```
 
-### 🔹 Description Lists (<dl>)
+### 🔹 Description Lists (`<dl>`)
 A description list pairs terms with their descriptions.
 
 **Syntax:**
