@@ -43,5 +43,8 @@ An HTML table is defined using the `<table>` tag, with rows (`<tr>`), header cel
 - `<caption>`: Adds a title to the table.
 - `<colgroup>` and `<col>`: Specify column properties for styling.
 - `<thead>`, `<tbody>`, and `<tfoot>`: Group sections of the table for styling and scripting purposes.
+- `<td rowspan="number">` Content `</td>`: The rowspan attribute allows a cell to extend over multiple rows.
+- `<td colspan="number">` Content `</td>`: attribute enables a cell to extend across multiple columns. 
+
 
 
