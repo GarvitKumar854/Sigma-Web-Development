@@ -8,11 +8,11 @@ This repository will continuously evolve with new concepts, challenges, and real
 ---
 
 ## 📖 **Table of Contents**  
-- [Introduction](#introduction)  
-- [Resources](#resources)  
-- [How to Use](#how-to-use)  
-- [Contributing](#contributing)  
-- [License](#license)  
+### Notes
+- 1.[Introduction](/01_Introduction/README.md)  
+
+### Others
+- 99.[License](#license)  
 
 ---
 
