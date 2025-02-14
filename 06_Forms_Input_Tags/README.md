@@ -1,6 +1,6 @@
-# Forms and Input Tags in HTML
+# 📝 Forms and Input 🏷️ Tags in HTML
 
-## Common HTTP Request Methods
+## 📨 Common HTTP Request Methods
 ### 1. GET
 - Purpose: Retrieve data from a server.
 - Use Case: Accessing a web page, fetching data from an API.
@@ -8,7 +8,14 @@
     - Parameters are sent in the URL.
     - Safe and idempotent (does not change server state).
 
-## Forms
+### 2. POST
+- Purpose: Submit data to a server to be processed.
+- Use Case: Form submissions, creating new resources on the server.
+- Characteristics:
+    - Parameters are sent in the request body.
+    - Not idempotent (can change server state).
+
+## 📋 Forms
 The `<form>` tag specifies the form's starting point and defines its properties, such as the action (the URL where the form data should be sent) and the method (the HTTP method to use when sending the data).
 
 Example of a basic form:
@@ -149,4 +156,40 @@ A single-line text input field for URLs.
 ```html
 <label for="website">Website:</label>
 <input type="url" id="website" name="website">
+```
+
+## Common HTML Attributes
+### 1. `name`
+Description: Specifies the name of an input element, used to identify form data after it is submitted.
+Example:
+```html
+<input type="text" name="username">
+```
+
+### 2. `placeholder`
+Description: Provides a short hint that describes the expected value of an input field. 
+Example:
+```html
+<input type="text" placeholder="Enter your name">
+```
+
+### 3. `required`
+Description: Indicates that an input field must be filled out before submitting the form. 
+Example:
+```html
+<input type="email" required>
+```
+
+### 4. `autofocus`
+Description: Automatically sets focus on an input field when the page loads. 
+Example:
+```html
+<input type="text" autofocus>
+```
+
+### 5. `pattern`
+Description: Specifies a regular expression that the input field's value must match. 
+Example:
+```html
+<input type="text" pattern="[A-Za-z]{3}">
 ```
