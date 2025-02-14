@@ -18,7 +18,7 @@ This repository will continuously evolve with new concepts, challenges, and real
 7. [Inline And Block Elements in HTML](/07_Inline_Block_Elements/README.md)
 8. [ID & Classes In HTML](/08_Id_Classes_HTML/README.md)
 9. [Video, Audio & Media in HTML](/09_Video_Audio_Media/README.md)
-10. [Semantic Tags in HTML]()
+10. [Semantic Tags in HTML](/10_Semantic_Tags/README.md)
 11. [Entities, Code tag & More on HTML](/11_Entities_Code_tag&more_HTML/README.md)
 
 
