@@ -15,7 +15,7 @@ The `<video>` tag is used to embed video content.
 <video src="movie.mp4" controls autoplay loop muted></video>
 ```
 
-## Audio Element 🎵
+## Audio Element ♬⋆.˚
 The `<audio>` tag is used to embed audio content.
 ### Attributes:
 - **src**: Specifies the URL of the audio file.
