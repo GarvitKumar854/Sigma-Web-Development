@@ -11,9 +11,11 @@ This repository will continuously evolve with new concepts, challenges, and real
 ### Notes
 1. [Introduction](/01_Introduction/README.md)  
 2. [First Website](/02_First_Website/README.md)
-3. [Headings, Paragraphs & Links](/03_Headings_Paragraphs_Links/README.md)
-4. [Images, Lists & Tables](/04_Image_Lists_Tables/README.md)
+3. [Headings, Paragraphs & Links in HTML](/03_Headings_Paragraphs_Links/README.md)
+4. [Images, Lists & Tables in HTML](/04_Image_Lists_Tables/README.md)
 5. [SEO and Core Web Vitals in HTML](/05_SEO_Core_Web_Vitals/README.md)
+6. [Forms And Input Tags in HTML](/06_Forms_Input_Tags/README.md)
+7. [Inline And Block Elements in HTML](/07_Inline_Block_Elements/README.md)
 
 ### Others
 99. [License](/LICENSE)  
