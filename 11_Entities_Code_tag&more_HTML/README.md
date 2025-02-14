@@ -2,34 +2,34 @@
 Entities in HTML are special codes that represent characters or symbols that are not easily typed on a keyboard or could be interpreted as HTML code. These entities start with an ampersand (&) and end with a semicolon (;).
 
 ## Common HTML Entities
-- **Space** (&nbsp;)
+- **Space** (`&nbsp;`)
 Description: Non-breaking space, used to create additional spaces in text.
 
-- **Less Than** (&lt;)
+- **Less Than** (`&lt;`)
 Description: Represents the less-than sign (<).
 
-- **Greater Than** (&gt;)
+- **Greater Than** (`&gt;`)
 Description: Represents the greater-than sign (>).
 
--**Ampersand** (&amp;)
+-**Ampersand** (`&amp;`)
 Description: Represents the ampersand symbol (&).
 
-- **Quotation Mark** (&quot;)
+- **Quotation Mark** (`&quot;`)
 Description: Represents the double quotation mark (").
 
--  **Apostrophe** (&apos;)
+- **Apostrophe** (`&apos;`)
 Description: Represents the apostrophe or single quote (').
 
-- **Copyright** (&copy;)
+- **Copyright** (`&copy;`)
 Description: Represents the copyright symbol (©).
 
-- **Registered Trademark** (&reg;)
+- **Registered Trademark** (`&reg;`)
 Description: Represents the registered trademark symbol (®).
 
-- **Euro Sign** (&euro;)
+- **Euro Sign** (`&euro;`)
 Description: Represents the euro currency symbol (€).
 
-- **Cent Sign** (&cent;)
+- **Cent Sign** (`&cent;`)
 Description: Represents the cent symbol (¢).
 
 
