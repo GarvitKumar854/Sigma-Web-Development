@@ -17,7 +17,7 @@ Description: Represents the ampersand symbol (&).
 - **Quotation Mark** (&quot;)
 Description: Represents the double quotation mark (").
 
-- **Apostrophe** (&apos;)
+-  **Apostrophe** (&apos;)
 Description: Represents the apostrophe or single quote (').
 
 - **Copyright** (&copy;)
