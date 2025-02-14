@@ -25,7 +25,7 @@ Example of a basic form:
 </form>
 ```
 
-## Label Tag
+## 🔖 Label Tag
 The `<label>` tag defines a label for an `<input>` element. It improves the usability of forms by making it easier for users to click on input elements.
 Example:
 ```html
