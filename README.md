@@ -20,7 +20,7 @@ This repository will continuously evolve with new concepts, challenges, and real
 9. [Video, Audio & Media in HTML](/09_Video_Audio_Media/README.md)
 10. [Semantic Tags in HTML]()
 
-<a href="https://www.example.com" style="color: white; font-size: 1.25em; font-weight: bold;"> ✍🏻 Exercises</a>
+<a href="https://www.example.com" style="color: white; font-size: 1.25em; font-weight: bold;">Exercises</a>
 
 <!-- ### ✍🏻 [Exercises](/Exercises/README.md) -->
 
