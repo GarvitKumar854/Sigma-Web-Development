@@ -13,6 +13,7 @@ This repository will continuously evolve with new concepts, challenges, and real
 2. [First Website](/02_First_Website/README.md)
 3. [Headings, Paragraphs & Links](/03_Headings_Paragraphs_Links/README.md)
 4. [Images, Lists & Tables](/04_Image_Lists_Tables/README.md)
+5. [SEO and Core Web Vitals in HTML](/05_SEO_Core_Web_Vitals/README.md)
 
 ### Others
 99. [License](/LICENSE)  
