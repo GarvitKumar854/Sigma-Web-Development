@@ -15,6 +15,7 @@ Semantic tags in HTML provide meaning to the web content, making it easier for b
 - `<figure>`: Specifies self-contained content, like images with captions.
 - `<figcaption>`: Defines a caption for a `<figure>` element.
 - `<mark>`: Highlights or marks text.
+- `<time>`: Used to represent time related information, like dates and times.
 
 **Example:**
 ```html
