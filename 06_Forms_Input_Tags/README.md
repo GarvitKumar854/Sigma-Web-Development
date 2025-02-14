@@ -1,5 +1,13 @@
 # Forms and Input Tags in HTML
 
+## Common HTTP Request Methods
+### 1. GET
+- Purpose: Retrieve data from a server.
+- Use Case: Accessing a web page, fetching data from an API.
+- Characteristics:
+    - Parameters are sent in the URL.
+    - Safe and idempotent (does not change server state).
+
 ## Forms
 The `<form>` tag specifies the form's starting point and defines its properties, such as the action (the URL where the form data should be sent) and the method (the HTTP method to use when sending the data).
 
