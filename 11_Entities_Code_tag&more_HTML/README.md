@@ -50,7 +50,7 @@ Description: Represents the cent symbol (¢).
 </html>
 ```
 
-## `pre` tag
+## `pre` Tag
 The `<pre>` tag in HTML is used to define preformatted text. Text within this tag is displayed in a fixed-width font (usually Courier) and preserves both spaces and line breaks. This tag is often used to display code blocks or formatted text where white spaces are important.
 
 **Example**
