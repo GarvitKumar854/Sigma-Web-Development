@@ -74,3 +74,27 @@ The `<pre>` tag in HTML is used to define preformatted text. Text within this ta
 </body>
 </html>
 ```
+
+## `code` Tag
+The `<code>` tag in HTML is used to define a fragment of computer code. This tag is typically rendered in a monospace or fixed-width font, making it ideal for presenting code snippets. However, the `<code>` tag alone does not preserve formatting like line breaks or spaces. For that, you often use it within a `<pre>` tag.
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Code Tag Example</title>
+</head>
+<body>
+    <p>To print "Hello, World!" in Python, use the <code>print("Hello, World!")</code> function.</p>
+
+    <h2>Block of Code:</h2>
+    <pre><code>
+def greet():
+    print("Hello, World!")
+
+greet()
+    </code></pre>
+</body>
+</html>
+```
