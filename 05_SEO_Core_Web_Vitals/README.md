@@ -41,4 +41,4 @@ Core Web Vitals are a set of specific metrics defined by Google to measure key a
 
 Google provides tools like the Core Web Vitals report in Search Console to help site owners monitor and improve these metrics. By focusing on these areas, developers can enhance user experience and potentially improve their site's performance in search engine rankings. 
 
-<img src = "https://cdn.prod.website-files.com/5e3d3268a134a79339be8368/6109ad1f8ab06355a51de916_tRMcyKdIYVxiS9O1vMK1fC1VmmQBABp4Py5VXp4dtDKArKNQgXEktcX0oiXRCCxjrsiqjIoNLC4ZbYQ4MJ9DBN3ua28FTgE0NpcnhbmsBi3e0CI5kMwKBbyVIrcDyCkL3REG76o.png" width = "800px"; margin = auto>
+<img src = "https://cdn.prod.website-files.com/5e3d3268a134a79339be8368/6109ad1f8ab06355a51de916_tRMcyKdIYVxiS9O1vMK1fC1VmmQBABp4Py5VXp4dtDKArKNQgXEktcX0oiXRCCxjrsiqjIoNLC4ZbYQ4MJ9DBN3ua28FTgE0NpcnhbmsBi3e0CI5kMwKBbyVIrcDyCkL3REG76o.png" width = "800px" margin = auto>
