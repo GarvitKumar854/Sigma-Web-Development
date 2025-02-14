@@ -73,4 +73,22 @@ div {
 }
 ```
 
+### iFrames in HTML
+iFrames (Inline Frames) in HTML are used to embed another HTML document within the current HTML document. The `<iframe>` tag creates an inline frame, which can display web pages, videos, maps, or other content from another source.
+
+**Example**
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iFrame Example</title>
+</head>
+<body>
+    <h1>Embedded Page</h1>
+    <iframe src="https://www.example.com" width="600" height="400" frameborder="0" allowfullscreen></iframe>
+</body>
+</html>
+```
 
