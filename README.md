@@ -21,7 +21,12 @@ This repository will continuously evolve with new concepts, challenges, and real
 10. [Semantic Tags in HTML]()
 
 
-### [✍🏻 Exercises](/Exercises/README.md)
+### ✍🏻 Exercises
+1. [Exercise 1](/Exercises/Ex1/README.md)
+2. [Exercise 2]()
+3. [Exercise 3]()
+4. [Exercise 4]()
+5. [Exercise 5]()
 
 ### 📜 Others
 99. [License](/LICENSE)  
