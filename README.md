@@ -20,7 +20,7 @@ This repository will continuously evolve with new concepts, challenges, and real
 9. [Video, Audio & Media in HTML](/09_Video_Audio_Media/README.md)
 10. [Semantic Tags in HTML]()
 
-### ✍🏻 [Exercises]
+### ✍🏻 [Exercises](/Exercises/README.md)
 
 ### 📜 Others
 99. [License](/LICENSE)  
