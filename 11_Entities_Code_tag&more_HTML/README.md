@@ -11,7 +11,7 @@ Description: Represents the less-than sign (<).
 - **Greater Than** (`&gt;`)
 Description: Represents the greater-than sign (>).
 
--**Ampersand** (`&amp;`)
+- **Ampersand** (`&amp;`)
 Description: Represents the ampersand symbol (&).
 
 - **Quotation Mark** (`&quot;`)
