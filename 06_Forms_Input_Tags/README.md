@@ -33,7 +33,7 @@ Example:
 <input type="text" id="name" name="name">
 ```
 
-## Textarea Tag
+## ☰ Textarea Tag
 The `<textarea>` tag defines a multi-line text input field. It is used when you need a larger area for user input, such as for comments or descriptions.
 Example:
 ```html
@@ -56,7 +56,7 @@ Example:
 </select>
 ```
 
-## Input Tags
+## 📥 Input Tags
 The `<input>` tag is one of the most common form elements. It is used to create various types of user input fields.
 
 ### Text Input
