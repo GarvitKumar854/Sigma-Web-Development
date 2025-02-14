@@ -16,11 +16,25 @@ Inline elements only take up as much width as necessary, and they do not start o
 - `<abbr>`: Defines an abbreviation or acronym.
 
 ```html
-<span>This is Span</span>
-<!-- Used for Links --->
-<a href="https://google.com">Google</a>
-<img src = "" alt = "Image">
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inline Elements Example</title>
+</head>
+<body>
+    <p>This is a paragraph with an <a href="#">inline link</a>, some <strong>bold text</strong>, and some <em>italic text</em>.</p>
+    <p>Here's an image: <img src="image.jpg" alt="An image"></p>
+    <p>A line break<br>happens here.</p>
+    <p><code>print()</code> is an inline code example.</p>
+    <p><abbr title="Hypertext Markup Language">HTML</abbr> is the language of the web.</p>
+    <form>
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" placeholder="Enter your username">
+    </form>
+</body>
+</html>
 ```
 
 ## Block Elements 📦
@@ -38,3 +52,49 @@ Block elements take up the full width available (by default) and always start on
 - `<tr>`: Defines a table row.
 - `<td>`: Defines a table cell.
 - `<header>`: Defines a header for a document or section.
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Block Elements Example</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Website</h1>
+        <h2>An Example of Block Elements</h2>
+    </header>
+    <div>
+        <p>This is a paragraph inside a block container (div).</p>
+        <p>Below is a list of items:</p>
+        <ul>
+            <li>Item 1</li>
+            <li>Item 2</li>
+            <li>Item 3</li>
+        </ul>
+        <p>Below is an ordered list:</p>
+        <ol>
+            <li>First item</li>
+            <li>Second item</li>
+            <li>Third item</li>
+        </ol>
+        <p>And here is a table:</p>
+        <table border="1">
+            <tr>
+                <th>Header 1</th>
+                <th>Header 2</th>
+            </tr>
+            <tr>
+                <td>Cell 1</td>
+                <td>Cell 2</td>
+            </tr>
+            <tr>
+                <td>Cell 3</td>
+                <td>Cell 4</td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>
+```
