@@ -7,7 +7,7 @@ CSS specificity determines which CSS rule is applied when multiple rules target 
 2. Class Selector (.classname), Attribute Selector (`[type="text"]`), Pseudo-class Selector (:`hover`, :`focus`, etc.)
 3. ID Selector (`#idname`)
 
-## Specificity Calculation
+## Specificity Calculation 📱
 Specificity is often expressed as a number in the format (0,0,0,0), with each component representing a different level of specificity.
 
 - Inline styles have a specificity of (1,0,0,0)
@@ -45,3 +45,25 @@ The CSS Cascade Algorithm is a process that determines how to apply multiple, po
 
 3. Source Order:
     - When two rules have equal importance and specificity, the one that appears later in the CSS file or HTML document takes precedence.
+
+**Example:**
+Consider the following CSS rules:
+```css
+/* Rule 1: Lower specificity */
+p {
+    color: blue;
+}
+
+/* Rule 2: Higher specificity */
+#unique {
+    color: red;
+}
+
+/* Rule 3: !important */
+.important {
+    color: green !important;
+}
+
+/* Inline style: Highest specificity */
+<p id="unique" class="important" style="color: yellow;">Text</p>
+```
