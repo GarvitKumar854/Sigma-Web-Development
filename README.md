@@ -23,7 +23,7 @@ This repository will continuously evolve with new concepts, challenges, and real
 12. [Introduction to CSS](/12_Introduction_to_CSS/README.md)
 13. [CSS Box Model](/13_CSS_Box_Model/README.md)
 14. [CSS Fonts, Text & Color Properties](/14_CSS_Font_Text&Colors/README.md)
-
+15. [CSS Specificity & Cascade](/15_CSS_Specificity_and_Cascade/README.md)
 
 ### ✍🏻 Exercises
 1. [Exercise 1](/Exercises/Ex1/README.md)
