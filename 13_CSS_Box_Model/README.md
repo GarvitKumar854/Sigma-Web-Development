@@ -12,6 +12,6 @@ The CSS Box Model is a fundamental concept in web design that describes the stru
 </div>
 
 ## **Calculating the total dimension of the Element:**
-the total width and height of the element is calculated with the formula:
-**Total Width** = Width + Left Padding + Right Padding + Left Border + Right Border + Left Margin + Right Margin
+the total width and height of the element is calculated with the formula:<br>
+**Total Width** = Width + Left Padding + Right Padding + Left Border + Right Border + Left Margin + Right Margin<br>
 **Total Height** = Height + Top Padding + Bottom Padding + Top Border + Bottom Border + Top Margin + Bottom Margin
