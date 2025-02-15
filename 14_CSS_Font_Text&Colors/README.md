@@ -50,3 +50,12 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 ```
+
+## Text Decorations:
+1. **Text Decoration**: Adds decorations like underline, overline, or line-through.
+2. **Text Decoration Style**: Specifies the style of the text decoration (like underline, overline, or line-through).
+3. **Text Decoration Color**: Sets the color of the text decoration (such as underline, overline, or line-through).
+4. **Text Decoration Thickness**: Sets the thickness of the text decoration.
+5. **Text Overflow**: Controls how overflowed content that is not displayed is signaled to users. It works with the `white-space` and `overflow` properties.
+6. **Word Break**: Controls how words wrap at the end of a line.
+7. **Text Align**: Specifies the horizontal alignment of text within an element.
