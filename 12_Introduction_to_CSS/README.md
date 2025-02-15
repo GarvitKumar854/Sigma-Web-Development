@@ -6,6 +6,8 @@ CSS, or Cascading Style Sheets, is a stylesheet language used for describing the
 - Layout: Helps create responsive layouts using features like flexbox and grid.
 - Separation of Concerns: Separates content (HTML) from presentation (CSS), making it easier to maintain and update the website.
 
+## ✨ What is Selectors ?
+In CSS, selectors are patterns used to target and apply styles to HTML elements. Examples include element selectors (p), class selectors (.classname), and ID selectors (#idname). They are fundamental for defining which elements the styles will affect, enabling precise and efficient styling.
 
 ## Methods to use CSS
 There are three primary methods to use CSS in your website:
