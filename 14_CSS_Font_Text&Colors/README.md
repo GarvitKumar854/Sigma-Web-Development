@@ -59,3 +59,56 @@ body {
 5. **Text Overflow**: Controls how overflowed content that is not displayed is signaled to users. It works with the `white-space` and `overflow` properties.
 6. **Word Break**: Controls how words wrap at the end of a line.
 7. **Text Align**: Specifies the horizontal alignment of text within an element.
+8. **Text Indent**: Specifies the amount of space to indent the first line of a block-level element.
+
+
+## 🌈 Colors
+Colors in CSS are essential for enhancing the design and readability of web pages. You can specify colors using different methods, such as color names, hexadecimal values, RGB, RGBA, HSL, and HSLA.
+
+### 1. Color Keywords 🎨
+Use predefined color names to set colors.
+```CSS
+h1 {
+    color: red;
+}
+```
+
+### 2. Hexadecimal Values 🟥
+Represent colors using a # followed by six or three hexadecimal digits.
+```css
+p {
+    color: #00FF00; /* Green */
+}
+```
+
+### 3. RGB Values 🔴
+Specify colors using the rgb() function with red, green, and blue values.
+```css
+div {
+    color: rgb(0, 0, 255); /* Blue */
+}
+```
+
+### 4. RGBA Values 🔴
+Similar to RGB, but with an additional alpha value for opacity.
+```css
+span {
+    color: rgba(255, 0, 0, 0.5); /* 50% transparent red */
+}
+```
+
+### 5. HSL Values 
+Define colors using the hsl() function with hue, saturation, and lightness.
+```css
+a {
+    color: hsl(120, 100%, 50%); /* Green */
+}
+```
+
+### 6. HSLA Values 🌈
+Similar to HSL, but with an additional alpha value for opacity.
+```css
+button {
+    color: hsla(240, 100%, 50%, 0.75); /* 75% transparent blue */
+}
+```
