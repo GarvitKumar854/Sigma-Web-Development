@@ -49,7 +49,7 @@ input[type="text"] {
     border: 1px solid #ccc;
 }
 ```
-- ### ***Universal Selector**: Targets all elements on a page.
+- ### **Universal Selector**: Targets all elements on a page.
 ```css
 * {
     margin: 0;
