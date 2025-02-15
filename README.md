@@ -21,6 +21,7 @@ This repository will continuously evolve with new concepts, challenges, and real
 10. [Semantic Tags in HTML](/10_Semantic_Tags/README.md)
 11. [Entities, Code tag & More on HTML](/11_Entities_Code_tag&more_HTML/README.md)
 12. [Introduction to CSS](/12_Introduction_to_CSS/README.md)
+13. [CSS Box Model](/13_CSS_Box_Model/README.md)
 
 
 ### ✍🏻 Exercises
