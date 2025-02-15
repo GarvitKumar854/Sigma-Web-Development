@@ -7,7 +7,63 @@ CSS, or Cascading Style Sheets, is a stylesheet language used for describing the
 - Separation of Concerns: Separates content (HTML) from presentation (CSS), making it easier to maintain and update the website.
 
 ## ✨ What is Selectors ?
-In CSS, selectors are patterns used to target and apply styles to HTML elements. Examples include element selectors (p), class selectors (.classname), and ID selectors (#idname). They are fundamental for defining which elements the styles will affect, enabling precise and efficient styling.
+In CSS, selectors are used to target and style HTML elements. Here are some common types of selectors with brief examples:
+- ### **ID Selector**: Targets an element with a specific `id`.
+```css
+#header {
+    color: blue;
+}
+```
+
+- ### **Class Selector**: Targets elements with a specific `class`.
+```css
+.menu {
+    font-size: 18px;
+}
+```
+
+- ### **Element Selector**: Targets all instances of an element.
+```css
+p {
+    line-height: 1.5;
+}
+```
+
+- ### **Descendant Selector**: Targets elements that are descendants of a specified element.
+```css
+div p {
+    color: green;
+}
+```
+
+- ### **Child Selector**: Targets elements that are direct children of a specified element.
+```css
+ul > li {
+    list-style-type: none;
+}
+```
+
+- ### **Attribute Selector**: Targets elements with a specified attribute.
+```css
+input[type="text"] {
+    border: 1px solid #ccc;
+}
+```
+- ### ***Universal Selector**: Targets all elements on a page.
+```css
+* {
+    margin: 0;
+    padding: 0;
+}
+```
+
+- ### **Pseudo-class Selector**: Targets elements based on their state.
+```css
+a:hover {
+    color: red;
+}
+```
+
 
 ## Methods to use CSS
 There are three primary methods to use CSS in your website:
