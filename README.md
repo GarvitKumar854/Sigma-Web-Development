@@ -20,6 +20,7 @@ This repository will continuously evolve with new concepts, challenges, and real
 9. [Video, Audio & Media in HTML](/09_Video_Audio_Media/README.md)
 10. [Semantic Tags in HTML](/10_Semantic_Tags/README.md)
 11. [Entities, Code tag & More on HTML](/11_Entities_Code_tag&more_HTML/README.md)
+12. [Introduction to CSS](/12_Introduction_to_CSS/README.md)
 
 
 ### ✍🏻 Exercises
