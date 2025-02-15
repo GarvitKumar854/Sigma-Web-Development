@@ -15,3 +15,29 @@ The CSS Box Model is a fundamental concept in web design that describes the stru
 the total width and height of the element is calculated with the formula:<br>
 **Total Width** = Width + Left Padding + Right Padding + Left Border + Right Border + Left Margin + Right Margin<br>
 **Total Height** = Height + Top Padding + Bottom Padding + Top Border + Bottom Border + Top Margin + Bottom Margin
+
+### 📌 `box-sizing: border-box`:
+The box-sizing: border-box CSS property changes how the width and height of elements are calculated. By default, the width and height of an element include only the content, excluding padding and border. When box-sizing: border-box is applied, the padding and border are included within the element's total width and height. This makes it easier to manage layout sizes and prevents overflow issues.
+
+**Example:**
+```CSS
+element {
+    box-sizing: border-box;
+    width: 300px;
+    padding: 10px;
+    border: 5px solid black;
+}
+```
+
+### Concept of Margin Collapse:
+Margin collapse is a concept in CSS where the vertical margins of adjacent block-level elements combine (or "collapse") into a single margin, rather than being added together. This often occurs between a parent and its first or last child element, or between sibling elements.
+
+**Example:**
+```CSS
+div {
+    margin: 20px;
+}
+p {
+    margin: 10px;
+}
+```
