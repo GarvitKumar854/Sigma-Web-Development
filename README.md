@@ -25,7 +25,7 @@ This repository will continuously evolve with new concepts, challenges, and real
 14. [CSS Fonts, Text & Color Properties](/14_CSS_Font_Text&Colors/README.md)
 15. [CSS Specificity & Cascade](/15_CSS_Specificity_and_Cascade/README.md)
 16. [CSS Sizing Units](/16_CSS_Sizing_Units/README.md)
-17. [CSS Display Property](/)
+17. [CSS Display Property](/17_CSS_Display_Property/README.md)
 
 ### ✍🏻 Exercises
 1. [Exercise 1](/Exercises/Ex1/README.md)
