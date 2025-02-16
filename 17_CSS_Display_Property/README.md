@@ -1,4 +1,4 @@
-# CSS Display Property
+# CSS 🖥️ Display Property
 The `display` property in CSS is used to determine how an element is displayed on a web page. It controls the layout behavior of an element and its children. Here are some of the common values for the display property:
 
 ## Common Values:
