@@ -26,6 +26,15 @@ This repository will continuously evolve with new concepts, challenges, and real
 15. [CSS Specificity & Cascade](/15_CSS_Specificity_and_Cascade/README.md)
 16. [CSS Sizing Units](/16_CSS_Sizing_Units/README.md)
 17. [CSS Display Property](/17_CSS_Display_Property/README.md)
+18. [CSS Shadows And Outlines](/18_CSS_Shadows_Outlines/README.md)
+19. [](/)
+20. [](/)
+21. [](/)
+22. [](/)
+23. [](/)
+24. [](/)
+25. [](/)
+26. [](/)
 
 ### ✍🏻 Exercises
 1. [Exercise 1](/Exercises/Ex1/README.md)
