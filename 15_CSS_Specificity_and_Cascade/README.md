@@ -15,6 +15,8 @@ Specificity is often expressed as a number in the format (0,0,0,0), with each co
 - Classes, attributes, and pseudo-classes have a specificity of (0,0,1,0)
 - Elements and pseudo-elements have a specificity of (0,0,0,1)
 
+**Order of Specificity:** Inline Style > ID Selector > Class or Attribute Selector > Element Selector > Universal Selector.
+
 **Example:**
 ```css
 /* Specificity: (0,0,1,0) */
