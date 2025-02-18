@@ -29,7 +29,7 @@ This repository will continuously evolve with new concepts, challenges, and real
 18. [CSS Shadows And Outlines](/18_CSS_Shadows_Outlines/README.md)
 19. [CSS Overflow Property](/19_CSS_Overflow_Property/README.md)
 20. [CSS Position Property](/20_CSS_Position_Property/README.md)
-21. [](/)
+21. [CSS Variables](/21_CSS_Variables/README.md)
 22. [](/)
 23. [](/)
 24. [](/)
