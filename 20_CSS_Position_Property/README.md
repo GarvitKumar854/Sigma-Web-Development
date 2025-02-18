@@ -1,4 +1,4 @@
-# CSS Position Property
+# CSS Position ⚙️ Property
 The `position` property in CSS specifies how an element is positioned in a document. There are several values for the position property, each dictating different behavior:
 
 ## Values
