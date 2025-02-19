@@ -31,7 +31,7 @@ This repository will continuously evolve with new concepts, challenges, and real
 20. [CSS Position Property](/20_CSS_Position_Property/README.md)
 21. [CSS Variables](/21_CSS_Variables/README.md)
 22. [CSS Media Queries](/22_CSS_Media_Queries/README.md)
-23. [](/)
+23. [CSS Float & Clear](/23_CSS_Float_Clear/README.md)
 24. [](/)
 25. [](/)
 26. [](/)
