@@ -38,8 +38,8 @@ This repository will continuously evolve with new concepts, challenges, and real
 
 ### ✍🏻 Exercises
 1. [Exercise 1](/Exercises/Ex1/README.md)
-2. [Exercise 2]()
-3. [Exercise 3]()
+2. [Exercise 2](/Exercises/Ex2/README.md)
+3. [Exercise 3](/Exercises/Ex3/README.md)
 4. [Exercise 4]()
 5. [Exercise 5]()
 
