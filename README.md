@@ -30,7 +30,7 @@ This repository will continuously evolve with new concepts, challenges, and real
 19. [CSS Overflow Property](/19_CSS_Overflow_Property/README.md)
 20. [CSS Position Property](/20_CSS_Position_Property/README.md)
 21. [CSS Variables](/21_CSS_Variables/README.md)
-22. [](/)
+22. [CSS Media Queries](/22_CSS_Media_Queries/README.md)
 23. [](/)
 24. [](/)
 25. [](/)
