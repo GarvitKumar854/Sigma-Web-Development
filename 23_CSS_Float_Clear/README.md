@@ -1,9 +1,9 @@
 # CSS Float & Clear
 
-## CSS Float
+## CSS Float 🛟
 The `float` property in CSS is used to position an element to the left or right of its container, allowing other content to wrap around it. This property is commonly used for creating layouts with images, text, and other elements.
 
-## CSS Clear
+## CSS Clear 🧹
 The `clear` property is used to control the behavior of an element with respect to floating elements. It ensures that an element does not wrap around a floated element.
 
 **Example:**
