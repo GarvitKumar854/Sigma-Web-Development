@@ -22,8 +22,9 @@ Defines the columns of the grid. You can specify the width of each column.
 ### grid-template-rows
 Defines the rows of the grid. You can specify the height of each row.
 ```css
-grid-template-rows
-Defines the rows of the grid. You can specify the height of each row.
+.container {
+    grid-template-rows: 50px 100px 150px;
+}
 ```
 
 ### gap
