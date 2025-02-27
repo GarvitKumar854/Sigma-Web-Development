@@ -33,7 +33,7 @@ This repository will continuously evolve with new concepts, challenges, and real
 22. [CSS Media Queries](/22_CSS_Media_Queries/README.md)
 23. [CSS Float & Clear](/23_CSS_Float_Clear/README.md)
 24. [CSS Flexbox](/24_CSS_Flexbox/README.md)
-25. [](/)
+25. [CSS Grid](/)
 26. [](/)
 
 ### ✍🏻 Exercises
