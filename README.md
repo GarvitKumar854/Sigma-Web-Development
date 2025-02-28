@@ -34,7 +34,11 @@ This repository will continuously evolve with new concepts, challenges, and real
 23. [CSS Float & Clear](/23_CSS_Float_Clear/README.md)
 24. [CSS Flexbox](/24_CSS_Flexbox/README.md)
 25. [CSS Grid](/25_CSS_Grid/README.md)
-26. [](/)
+26. [CSS Transforms](/26_CSS_Transforms/README.md)
+27. [CSS Transitions](/27_CSS_Transitions/README.md)
+28. [CSS Animations](/28_CSS_Animations/README.md)
+29. [](/)
+30. [](/)
 
 ### ✍🏻 Exercises
 1. [Exercise 1](/Exercises/Ex1/README.md)
