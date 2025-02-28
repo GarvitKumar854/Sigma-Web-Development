@@ -1,4 +1,4 @@
-# CSS Transitions
+# CSS Transitions 💫
 CSS Transitions allow you to change property values smoothly (over a given duration), rather than having them change abruptly. This helps create dynamic and visually appealing web designs.
 
 ## Key Concepts of CSS Transitions

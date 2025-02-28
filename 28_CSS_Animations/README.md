@@ -1,4 +1,4 @@
-# CSS Animations
+# CSS Animations 🎞️
 CSS Animations allow you to animate transitions between different states of an element. They provide a way to add visual feedback to your web pages and make your design more engaging and dynamic.
 
 ## Key Concepts of CSS Animations
