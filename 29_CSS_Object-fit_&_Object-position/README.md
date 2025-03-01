@@ -6,15 +6,11 @@ Both `object-fit` and `object-position` are CSS properties used to control the p
 The `object-fit` property specifies how an element's content should be resized to fit its container. It determines the object's size and positioning within the container.
 
 ### Values:
-`fill`: The default value. The content is resized to fill the container. It may stretch the image or video if the aspect ratios do not match.
-
-`contain`: The content is resized to fit within the container while preserving its aspect ratio. The entire content will be visible, but there may be empty space within the container.
-
-`cover`: The content is resized to fill the container while preserving its aspect ratio. The content will cover the entire container, but some parts might be clipped if the aspect ratios do not match.
-
-`none`: The content maintains its original size. No resizing occurs.
-
-`scale-down`: The content is scaled down to the smallest of `none` or `contain`.
+- `fill`: The default value. The content is resized to fill the container. It may stretch the image or video if the aspect ratios do not match.
+- `contain`: The content is resized to fit within the container while preserving its aspect ratio. The entire content will be visible, but there may be empty space within the container.
+- `cover`: The content is resized to fill the container while preserving its aspect ratio. The content will cover the entire container, but some parts might be clipped if the aspect ratios do not match.
+- `none`: The content maintains its original size. No resizing occurs.
+- `scale-down`: The content is scaled down to the smallest of `none` or `contain`.
 
 **Example:**
 ```html
