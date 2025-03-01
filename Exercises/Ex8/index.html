@@ -1,56 +1,62 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bouncing Ball Animation</title>
 
-<style>
-    .container{
-        background-color: blue;
-        width: 80vw;
-        height: 80vh;
-        position: relative;
-    }
-
-    .ball{
-        width: 100px;
-        height: 100px;
-        background-color: red;
-        position: absolute;
-        border-radius: 1000px;
-        bottom: 0;
-        left: 0;
-        animation: animation-1 3s linear 1s 1 backwards,
-                    animation-2 3s ease-in-out 1s 1;
-    }
-    
-    @keyframes animation-1 {
-        from{
-
+    <style>
+        .container {
+            background-color: blue;
+            width: 80vw;
+            height: 80vh;
+            position: relative;
         }
-        to{
-            transform: translateX(1200px);
-        }
-    }
-        
-    @keyframes animation-2{
-        from{
 
+        .ball {
+            width: 100px;
+            height: 100px;
+            background-color: red;
+            position: absolute;
+            border-radius: 500px;
+            bottom: 0;
+            left: 0;
+            /* animation: animateX 3s linear infinite; */
+            animation: animateY 1s ease-out infinite alternate,
+                animateX 3s linear infinite;
         }
-        to{
-            transform: translateY(-500px);
-        }
-    }
 
-</style>
+        @keyframes animateX {
+            from {
+                left: 0;
+            }
+
+            to {
+                left: 100%;
+            }
+        }
+
+
+        @keyframes animateY {
+            form {
+                bottom: 0;
+            }
+
+            to {
+                bottom: 100%;
+            }
+        }
+    </style>
 
 </head>
+
 <body>
-    <div class="container">   
+    <div class="container">
         <div class="ball">
         </div>
     </div>
 
 </body>
+
 </html>
