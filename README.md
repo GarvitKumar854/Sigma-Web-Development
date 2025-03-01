@@ -37,7 +37,7 @@ This repository will continuously evolve with new concepts, challenges, and real
 26. [CSS Transforms](/26_CSS_Transforms/README.md)
 27. [CSS Transitions](/27_CSS_Transitions/README.md)
 28. [CSS Animations](/28_CSS_Animations/README.md)
-29. [](/)
+29. [CSS Object-fit & Object-position](/)
 30. [](/)
 
 ### ✍🏻 Exercises
