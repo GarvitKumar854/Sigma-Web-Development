@@ -3,26 +3,26 @@ CSS Filters are used to apply visual effects (like blur, grayscale, brightness, 
 
 
 ## Filter Functions
-### 1. **blur()** Applies a Gaussian blur to the element. The value specifies the blur radius in pixels.
+- 1. **blur()** Applies a Gaussian blur to the element. The value specifies the blur radius in pixels.
 
-### 2. **brightness()** Adjusts the brightness of the element. The value is a percentage. A value of 100% means no change, while values greater than 100% increase brightness, and values less than 100% decrease brightness.
+- 2. **brightness()** Adjusts the brightness of the element. The value is a percentage. A value of 100% means no change, while values greater than 100% increase brightness, and values less than 100% decrease brightness.
 
-### 3. **contrast()** Adjusts the contrast of the element. The value is a percentage. A value of 100% means no change, while values greater than 100% increase contrast, and values less than 100% decrease contrast.
+- 3. **contrast()** Adjusts the contrast of the element. The value is a percentage. A value of 100% means no change, while values greater than 100% increase contrast, and values less than 100% decrease contrast.
 
-### 4. **grayscale()** Converts the element to grayscale. The value is a percentage. A value of 100% means the element is completely grayscale, and a value of 0% means no change.
+- 4. **grayscale()** Converts the element to grayscale. The value is a percentage. A value of 100% means the element is completely grayscale, and a value of 0% means no change.
 
-### 5. **invert()** Inverts the colors of the element. The value is a percentage. A value of 100% means the colors are completely inverted, and a value of 0% means no change.
+- 5. **invert()** Inverts the colors of the element. The value is a percentage. A value of 100% means the colors are completely inverted, and a value of 0% means no change.
 
-### 6. **opacity()** Adjusts the opacity of the element. The value is a percentage. A value of 100% means the element is fully opaque, and a value of 0% means the element is fully transparent.
+- 6. **opacity()** Adjusts the opacity of the element. The value is a percentage. A value of 100% means the element is fully opaque, and a value of 0% means the element is fully transparent.
 
-### 7. **saturate()** Adjusts the saturation of the element. The value is a percentage. A value of 100% means no change, while values greater than 100% increase saturation, and values less than 100% decrease saturation.
+- 7. **saturate()** Adjusts the saturation of the element. The value is a percentage. A value of 100% means no change, while values greater than 100% increase saturation, and values less than 100% decrease saturation.
 
-### 8. **sepia()** Converts the element to sepia. The value is a percentage. A value of 100% means the element is completely sepia-toned, and a value of 0% means no change.
+- 8. **sepia()** Converts the element to sepia. The value is a percentage. A value of 100% means the element is completely sepia-toned, and a value of 0% means no change.
 
-### 9. **drop-shadow()** Applies a drop shadow to the element. The values specify the horizontal offset, vertical offset, blur radius, and color of the shadow.
+- 9. **drop-shadow()** Applies a drop shadow to the element. The values specify the horizontal offset, vertical offset, blur radius, and color of the shadow.
 
 
-**Example:**
+### **Example:**
 ```html
 <!DOCTYPE html>
 <html lang="en">
