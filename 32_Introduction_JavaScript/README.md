@@ -1,4 +1,5 @@
 # Introduction 📝 to JavaScript <img src="https://github.com/user-attachments/assets/9c1f4164-152b-4872-aa68-bae40d023602" width="25px">
+
 JavaScript is a versatile, high-level programming language that is widely used to create dynamic and interactive web content. It is one of the core technologies of web development, alongside HTML and CSS. Here, we'll cover the basics of JavaScript to get you started.
 
 ## Key Features of JavaScript:
