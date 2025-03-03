@@ -38,7 +38,10 @@ This repository will continuously evolve with new concepts, challenges, and real
 27. [CSS Transitions](/27_CSS_Transitions/README.md)
 28. [CSS Animations](/28_CSS_Animations/README.md)
 29. [CSS Object-fit & Object-position](/29_CSS_Object-fit_&_Object-position/README.md)
-30. [](/)
+30. [CSS Filters](/30_CSS_Filters/README.md)
+31. [Netflix Clone](/31_Netflix_Clone/index.html)
+32. [Introduction to JavaScript](/32_Introduction_JavaScript/README.md)
+
 
 ### ✍🏻 Exercises
 1. [Exercise 1](/Exercises/Ex1/README.md)

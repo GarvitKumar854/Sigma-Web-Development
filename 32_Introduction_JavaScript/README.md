@@ -20,3 +20,35 @@ JavaScript variables can be declared using `var`, `let`, or `const`.
 - `const`: Block-scoped, cannot be updated or redeclared.
 
 ## 📦 Datatypes in JavaScript
+There are 7 Primitive Datatypes, and 2 Object's Datatypes:
+1. **String**: Text data.
+2. **Number**: Numeric data.
+3. **Boolean**: Logical data (true or false).
+4. **Null**: Intentional absence of any value.
+5. **Undefined**: Variable declared but not assigned a value.
+6. **Object**: Collection of key-value pairs.
+7. **Array**: Ordered collection of values.
+8. **Symbol**: Unique and immutable value.
+9. **BigInt**: Integer with arbitrary precision.
+
+**Example:**
+```js
+let message = "Hello, World!"; // String
+let score = 42; // Number
+let isActive = true; // Boolean
+let emptyValue = null; // Null
+let unassigned; // Undefined
+
+let person = { // Object
+    name: "Alice",
+    age: 25
+};
+
+let numbers = [1, 2, 3, 4, 5]; // Array
+
+let uniqueID = Symbol("id"); // Symbol
+
+let bigNumber = 1234567890123456789012345678901234567890n; // BigInt
+
+console.log(message, score, isActive, emptyValue, unassigned, person, numbers, uniqueID, bigNumber);
+```
