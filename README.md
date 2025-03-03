@@ -42,6 +42,7 @@ This repository will continuously evolve with new concepts, challenges, and real
 31. [Netflix Clone](/31_Netflix_Clone/index.html)
 32. [Introduction to JavaScript](/32_Introduction_JavaScript/README.md)
 33. [JavaScript Conditionals](/33_JavaScript_Conditionals/README.md)
+34. [JavaScript Loops](/34_JavaScript_Loops/README.md)
 
 
 ### ✍🏻 Exercises
