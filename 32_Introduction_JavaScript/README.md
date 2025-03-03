@@ -2,7 +2,7 @@
 
 JavaScript is a versatile, high-level programming language that is widely used to create dynamic and interactive web content. It is one of the core technologies of web development, alongside HTML and CSS. Here, we'll cover the basics of JavaScript to get you started.
 
-## Key Features of JavaScript:
+## 🔑 Key Features of JavaScript:
 - **Interactivity**: JavaScript enables interactive elements on web pages, such as forms, animations, and games.
 - **Client-Side**: It primarily runs on the client-side (in the user's browser), allowing for immediate responses to user actions.
 - **Versatility**: JavaScript can be used for both frontend (client-side) and backend (server-side) development.
