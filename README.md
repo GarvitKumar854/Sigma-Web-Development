@@ -46,6 +46,7 @@ This repository will continuously evolve with new concepts, challenges, and real
 35. [JavaScript Functions](/35_JavaScript_Functions/README.md)
 36. [JavaScript Strings](/36_JavaScript_Strings/README.md)
 37. [JavaScript Arrays](/37_JavaScript_Arrays/README.md)
+37. [JavaScript DOM](/38_JavaScript_DOM/README.md)
 
 
 
@@ -53,8 +54,17 @@ This repository will continuously evolve with new concepts, challenges, and real
 1. [Exercise 1](/Exercises/Ex1/README.md)
 2. [Exercise 2](/Exercises/Ex2/README.md)
 3. [Exercise 3](/Exercises/Ex3/README.md)
-4. [Exercise 4]()
-5. [Exercise 5]()
+4. [Exercise 4](/Exercises/Ex4/README.md)
+5. [Exercise 5](/Exercises/Ex5/README.md)
+6. [Exercise 6](/Exercises/Ex6/README.md)
+7. [Exercise 7](/Exercises/Ex7/README.md)
+8. [Exercise 8](/Exercises/Ex8/README.md)
+9. [Exercise 9](/Exercises//Ex9/README.md)
+10. [Exercise 10](/Exercises/Ex10/README.md)
+11. [Exercise 11](/Exercises/Ex11/README.md)
+12. [Exercise 12](/Exercises/Ex12/README.md)
+13. [Exercise 13]()
+14. [Exercise 14]()
 
 ### 📜 Others
 99. [License](/LICENSE)  
