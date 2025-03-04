@@ -44,6 +44,9 @@ This repository will continuously evolve with new concepts, challenges, and real
 33. [JavaScript Conditionals](/33_JavaScript_Conditionals/README.md)
 34. [JavaScript Loops](/34_JavaScript_Loops/README.md)
 35. [JavaScript Functions](/35_JavaScript_Functions/README.md)
+36. [JavaScript Strings](/36_JavaScript_Strings/README.md)
+37. [JavaScript Arrays](/37_JavaScript_Arrays/README.md)
+
 
 
 ### ✍🏻 Exercises

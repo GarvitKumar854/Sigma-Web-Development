@@ -9,3 +9,5 @@ this Faulty Calculator does following:
     - `/ ---> **`
 3. It performs wrong operations 10% of the times.
 **Hint**: Use `Math.random()` function to generate random numbers.
+
+## [Answer](/Exercises/Ex9/script.js)
