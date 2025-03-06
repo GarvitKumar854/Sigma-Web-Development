@@ -17,3 +17,5 @@ Eg:
  - Bros
  - Limited
  - Hub
+
+## [Answer](/Exercises/Ex10/script.js)

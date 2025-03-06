@@ -46,7 +46,7 @@ This repository will continuously evolve with new concepts, challenges, and real
 35. [JavaScript Functions](/35_JavaScript_Functions/README.md)
 36. [JavaScript Strings](/36_JavaScript_Strings/README.md)
 37. [JavaScript Arrays](/37_JavaScript_Arrays/README.md)
-37. [JavaScript DOM](/38_JavaScript_DOM/README.md)
+38. [JavaScript DOM](/38_JavaScript_DOM/README.md)
 
 
 
