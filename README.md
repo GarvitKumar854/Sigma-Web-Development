@@ -48,7 +48,7 @@ This repository will continuously evolve with new concepts, challenges, and real
 37. [JavaScript Arrays](/37_JavaScript_Arrays/README.md)
 38. [JavaScript DOM](/38_JavaScript_DOM/README.md)
 39. [JavaScript Inserting & Removing Elements](/39_JavaScript_Inserting_Removing_Elements/README.md)
-
+40. [JavaScript Events](/40_JavaScript_Events/README.md)
 
 
 ### ✍🏻 Exercises
