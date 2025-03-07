@@ -25,8 +25,8 @@ The `addEventListener` method attaches an event handler to an element, allowing 
     ```
 
 3. Form Events:
-- `submit`: Fires when a form is submitted.
-- `change`: Fires when the value of an input or select element is changed.
+    - `submit`: Fires when a form is submitted.
+    - `change`: Fires when the value of an input or select element is changed.
     ```js
     let form = document.querySelector('form');
     form.addEventListener('submit', function(event) {
@@ -50,8 +50,8 @@ The `addEventListener` method attaches an event handler to an element, allowing 
     ```
 
 5. Focus Events:
-    `focus`: Fires when an element gains focus.
-    `blur`: Fires when an element loses focus.
+    - `focus`: Fires when an element gains focus.
+    - `blur`: Fires when an element loses focus.
     ```js
     let input = document.querySelector('input');
     input.addEventListener('focus', function() {
@@ -64,7 +64,7 @@ The `addEventListener` method attaches an event handler to an element, allowing 
     ```
 
 ### Event Bubbling
-**Event Bubbling** is a concept where an event starts from the deepest target element and then bubbles up to its parent elements, continuing up the DOM tree. This means an event triggers on the target element first and then on each parent element in sequence.
+**Event Bubbling** is a concept where an event starts from the deepest target element and then bubbles up to its parent elements, continuing up the DOM tree. This means an event triggers on the target element first and then on each parent element in sequence.<br>
 **Example:**
 ```html
 <div id="parent">
@@ -86,7 +86,7 @@ In this example, clicking the child button triggers its event handler first, and
 Event bubbling allows for efficient event handling by using event delegation and ensures that events can be managed effectively in complex DOM hierarchies.
 
 ## `removeEventListener`
-The removeEventListener method removes a previously attached event handler from an element, stopping it from being triggered by future events.
+The removeEventListener method removes a previously attached event handler from an element, stopping it from being triggered by future events.<br>
 **Example:**
 ```js
 function handleClick() {
