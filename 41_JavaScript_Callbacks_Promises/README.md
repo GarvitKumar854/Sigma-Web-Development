@@ -71,14 +71,14 @@ promise
 ```
 
 ### Promise APIs in JavaScript
-1. `Promise.all`
+#### 1. `Promise.all`
 Waits for all promises to resolve, returning a single promise that resolves to an array of results.<br>
 ##### **Example:**
 ```js
 Promise.all([Promise.resolve('First'), Promise.resolve('Second')]).then(results => console.log(results)); // Output: ['First', 'Second']
 ```
 
-2. `Promise.race`
+#### 2. `Promise.race`
 Waits for the first promise to settle, returning a single promise with the result of the first settled promise.<br>
 ##### **Example:**
 ```js
@@ -86,7 +86,7 @@ Promise.race([Promise.resolve('First'), new Promise(resolve => setTimeout(resolv
     .then(result => console.log(result)); // Output: 'First'
 ```
 
-3. `Promise.allSettled`
+#### 3. `Promise.allSettled`
 Waits for all promises to settle (resolve or reject), returning a single promise with an array of outcomes.<br>
 ##### **Example:**
 ```js
@@ -94,7 +94,7 @@ Promise.allSettled([Promise.resolve('First'), Promise.reject('Error')])
     .then(results => console.log(results)); 
     // Output: [{status: 'fulfilled', value: 'First'}, {status: 'rejected', reason: 'Error'}]
 ```
-4. `Promise.any`
+#### 4. `Promise.any`
 Waits for the first fulfilled promise, returning a single promise with that value, or rejects if all are rejected.<br>
 ##### **Example:**
 ```js
