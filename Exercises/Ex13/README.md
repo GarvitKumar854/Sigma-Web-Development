@@ -8,3 +8,4 @@ Design a Card by taking Inputs from user like:
 - Duration (Insert as it the String e.g: "12:00")
 - Thumbnail: Give the link of thumbnail
 
+## [Answer](/Exercises/Ex13/script.js)
