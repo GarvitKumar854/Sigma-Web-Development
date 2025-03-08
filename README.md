@@ -49,7 +49,8 @@ This repository will continuously evolve with new concepts, challenges, and real
 38. [JavaScript DOM](/38_JavaScript_DOM/README.md)
 39. [JavaScript Inserting & Removing Elements](/39_JavaScript_Inserting_Removing_Elements/README.md)
 40. [JavaScript Events](/40_JavaScript_Events/README.md)
-
+41. [JavaScript Callbacks & Promises](/41_JavaScript_Callbacks_Promises/README.md)
+42. [JavaScript Async/Awaits & Fetch API] 
 
 ### ✍🏻 Exercises
 1. [Exercise 1](/Exercises/Ex1/README.md)
@@ -64,8 +65,11 @@ This repository will continuously evolve with new concepts, challenges, and real
 10. [Exercise 10](/Exercises/Ex10/README.md)
 11. [Exercise 11](/Exercises/Ex11/README.md)
 12. [Exercise 12](/Exercises/Ex12/README.md)
-13. [Exercise 13]()
+13. [Exercise 13](/Exercises/Ex13/README.md)
 14. [Exercise 14]()
+15. [Exercise 15]()
+16. [Exercise 16]()
+17. [Exercise 17]()
 
 ### 📜 Others
 99. [License](/LICENSE)  
