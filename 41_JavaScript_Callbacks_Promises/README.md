@@ -21,7 +21,7 @@ promise.then(function(result) {
 });
 ```
 
-#### `then` and `catch` in Promises
+### `then` and `catch` in Promises
 `.then`: The then method handles the successful resolution of a promise, allowing chaining of multiple asynchronous operations.<br>
 ##### **Example:**
 ```js
