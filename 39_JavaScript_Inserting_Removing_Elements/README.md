@@ -1,4 +1,4 @@
-# Inserting and Removing Elements using JavaScript
+# Inserting ➡️ and Removing 🗑️ Elements using JavaScript
 JavaScript provides several methods to dynamically insert and remove elements in the DOM. Here are some common techniques:
 
 1. `innerHTML`
