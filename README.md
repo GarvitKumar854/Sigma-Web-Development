@@ -50,7 +50,7 @@ This repository will continuously evolve with new concepts, challenges, and real
 39. [JavaScript Inserting & Removing Elements](/39_JavaScript_Inserting_Removing_Elements/README.md)
 40. [JavaScript Events](/40_JavaScript_Events/README.md)
 41. [JavaScript Callbacks & Promises](/41_JavaScript_Callbacks_Promises/README.md)
-42. [JavaScript Async/Awaits & Fetch API] 
+42. [JavaScript Async/Awaits & Fetch API](/42_JS_Async_Await_FetchAPI/README.md) 
 
 ### ✍🏻 Exercises
 1. [Exercise 1](/Exercises/Ex1/README.md)
