@@ -102,5 +102,16 @@ Promise.any([Promise.reject('Error 1'), Promise.resolve('Second')])
     .then(result => console.log(result)); // Output: 'Second'
 ```
 
+#### 5. `Promise.resolve`
+Creates a resolved promise with a given value or an existing promise.
+##### **Example:**
+```js
+let resolvedPromise = Promise.resolve('Resolved Value');
+
+resolvedPromise.then(function(result) {
+    console.log(result); // Output: Resolved Value
+});
+```
+
 
 
