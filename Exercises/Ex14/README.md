@@ -1,5 +1,5 @@
 # Exercise 14
-Create a Hacking Simulator which has green background and it shows these messages with random delay of 1 to 7 seconds.
+Create a Hacking Simulator which has black background & green text and it shows these messages with random delay of 1 to 7 seconds.
 
 - Initializing Hacking...
 - Reading your Files...
