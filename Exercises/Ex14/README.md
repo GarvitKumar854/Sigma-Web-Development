@@ -9,6 +9,6 @@ Create a Hacking Simulator which has green background and it shows these message
 
 Note: The three dots must blink so that it looks like a real terminal.
 
-## [Answer](/Exercises/Ex14/)
+## [Answer](/Exercises/Ex14/index.html)
 
 
