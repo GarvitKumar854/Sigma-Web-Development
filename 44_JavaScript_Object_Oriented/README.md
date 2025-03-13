@@ -7,12 +7,12 @@ In JavaScript, prototypes are a key feature of its object-oriented programming m
 ### What is a Prototype?
 A prototype is an object from which other objects can inherit properties and methods. Every JavaScript object has an internal property called [[Prototype]], which points to its prototype.
 
-1. Prototype Basics:
+1. **Prototype Basics:**
     - Every object in JavaScript has a [[Prototype]] (accessed via __proto__).
     - Prototypes allow objects to inherit properties and methods from other objects.
-2. Prototype Chain:
+2. **Prototype Chain:**
      - If a property/method isn't found in an object, JavaScript looks up the prototype chain to find it.
-3. Adding Methods via Prototype:
+3. **Adding Methods via Prototype:**
     - Methods added to a prototype are shared among all instances of that object.
     ```js
     function Person(name) {
@@ -25,7 +25,7 @@ A prototype is an object from which other objects can inherit properties and met
     john.sayHello(); // Output: Hello, my name is John
     ```
 
-4. Inheritance Using Prototype:
+4. **Inheritance Using Prototype:**
     - Objects can inherit directly from other objects using Object.create() or by extending prototypes.
     ```js
     let animal = { eat: function() { console.log('Eating...'); } };
@@ -41,7 +41,7 @@ JavaScript supports **Object-Oriented Programming (OOP)**, and classes and objec
 ### 1. Classes
 - A **class** is a blueprint for creating objects.
 - It defines the properties and methods that the objects created from it will have.
-- Introduced in ES6, the class syntax is a more structured way to handle objects and inheritance.
+- Introduced in ES6, the class syntax is a more structured way to handle objects and inheritance.<br>
 **Syntax:**
 ```js
 class Person {
@@ -58,7 +58,7 @@ class Person {
 - **Constructor**: The constructor method initializes the properties of an object when it's created.
 - **Methods**: Functions defined within the class.
 
-### 2. Objects
+### 2. Objects 
 - An object is an instance of a class.
 - It contains properties (data) and methods (functions) defined by its class.
 **Creating an Object:**
@@ -68,7 +68,7 @@ person1.greet(); // Output: Hi, my name is John and I am 25 years old.
 ```
 
 ### Inheritance
-Classes can inherit properties and methods from other classes using the `extends` keyword.
+Classes can inherit properties and methods from other classes using the `extends` keyword.<br>
 **Example:**
 ```js
 class Animal {
@@ -119,7 +119,7 @@ console.log(myCar.details()); // Output: Toyota Corolla (2021)
 **Method overriding** occurs when a subclass provides a specific implementation of a method that is already defined in its parent class. The subclass method takes precedence when called on an instance of the subclass.
 #### Key Points:
 - The method in the subclass must have the **same name, parameters, and return type** as the method in the parent class.
-- It allows subclasses to provide specialized behavior for methods inherited from the parent.
+- It allows subclasses to provide specialized behavior for methods inherited from the parent.<br>
 **Example:**
 ```js
 class Animal {
