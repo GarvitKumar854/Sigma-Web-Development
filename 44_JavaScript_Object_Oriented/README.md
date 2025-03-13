@@ -115,6 +115,60 @@ let myCar = new Car('Toyota', 'Corolla', 2021);
 console.log(myCar.details()); // Output: Toyota Corolla (2021)
 ```
 
+### `static` Keyword
+The `static` keyword in JavaScript is used to define methods or properties in a class that belong to the class itself, rather than its instances. These methods and properties can be accessed directly via the class, without needing to create an object.
+
+#### Key Features:
+- Belongs to the class, not the instances.
+- Useful for utility or helper functions.<br>
+**Example:**
+```js
+class MathUtils {
+    static add(a, b) {
+        return a + b;
+    }
+}
+
+console.log(MathUtils.add(5, 3)); // Output: 8
+```
+
+### `super` Keyword
+The `super` keyword in JavaScript is used within classes to interact with the parent class. It is primarily used for:
+1. **Calling Parent Class Constructor:**
+- `super()` invokes the constructor of the parent class to initialize inherited properties.
+
+2. **Accessing Parent Methods:**
+- `super.methodName()` allows the subclass to call methods defined in the parent class.<br>
+**Example:**
+```js
+class Parent {
+    constructor(name) {
+        this.name = name;
+    }
+    greet() {
+        console.log(`Hello, I am ${this.name}`);
+    }
+}
+
+class Child extends Parent {
+    constructor(name, age) {
+        super(name); // Calls Parent's constructor
+        this.age = age;
+    }
+    greet() {
+        super.greet(); // Calls Parent's greet method
+        console.log(`I am also ${this.age} years old`);
+    }
+}
+
+const child = new Child('John', 25);
+child.greet();
+// Output:
+// Hello, I am John
+// I am also 25 years old
+```
+
+
 ### Method Overriding
 **Method overriding** occurs when a subclass provides a specific implementation of a method that is already defined in its parent class. The subclass method takes precedence when called on an instance of the subclass.
 #### Key Points:
@@ -136,4 +190,45 @@ class Dog extends Animal {
 
 let myDog = new Dog();
 myDog.speak(); // Output: Dog barks (overrides parent method)
+```
+
+### Getter & Setters
+**Getters** and **Setters** in JavaScript are special methods that allow controlled access to the properties of an object.
+- **Getter**: Used to fetch or compute the value of a property.
+- **Setter**: Used to update or set the value of a property.<br>
+
+**Syntax:**
+```js
+class Person {
+    constructor(name) {
+        this._name = name;
+    }
+
+    // Getter
+    get name() {
+        return this._name;
+    }
+
+    // Setter
+    set name(newName) {
+        this._name = newName;
+    }
+}
+
+let person = new Person('John');
+console.log(person.name); // Getter: Output - John
+person.name = 'Doe'; // Setter
+console.log(person.name); // Output - Doe
+```
+
+### `instanceof` Operator
+The `instanceof` operator in JavaScript checks whether an object is an instance of a specific class or constructor function.
+- Returns `true` if the object inherits from the constructor's prototype, otherwise `false`.<br>
+**Example:**
+```js
+class Person {}
+let john = new Person();
+
+console.log(john instanceof Person); // Output: true
+console.log(john instanceof Array); // Output: false
 ```
