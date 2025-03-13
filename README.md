@@ -51,6 +51,9 @@ This repository will continuously evolve with new concepts, challenges, and real
 40. [JavaScript Events](/40_JavaScript_Events/README.md)
 41. [JavaScript Callbacks & Promises](/41_JavaScript_Callbacks_Promises/README.md)
 42. [JavaScript Async/Awaits & Fetch API](/42_JS_Async_Await_FetchAPI/README.md) 
+43. [JavaScript try catch & Error Handling](/43_JavaScript_tryCatch_Error_Handling/README.md)
+44. [JavaScript Object Oriented Programming](/44_JavaScript_Object_Oriented/README.md)
+
 
 ### ✍🏻 Exercises
 1. [Exercise 1](/Exercises/Ex1/README.md)
@@ -66,7 +69,7 @@ This repository will continuously evolve with new concepts, challenges, and real
 11. [Exercise 11](/Exercises/Ex11/README.md)
 12. [Exercise 12](/Exercises/Ex12/README.md)
 13. [Exercise 13](/Exercises/Ex13/README.md)
-14. [Exercise 14]()
+14. [Exercise 14](/Exercises/Ex14/README.md)
 15. [Exercise 15]()
 16. [Exercise 16]()
 17. [Exercise 17]()
